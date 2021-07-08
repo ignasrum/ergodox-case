@@ -1,6 +1,8 @@
-### ergodox-case
+# Ergodox Case (1u - 80 key)
 
-# Parts to assemble (both sides):
+![plot](./rev1/images/both.jpg)
+
+### Parts to assemble (both sides):
 
 * 2 bottom parts (1 with usb, and 1 without usb)
 * 2 top parts (1 with usb, and 1 without usb)
@@ -13,7 +15,7 @@
 * 6 14mm m3 screws (for legs to main body)
 * 6 4mm m3 screws (for feet to legs)
 
-# Notes
+### Notes
 
 * The case only supports 1u outer row. 
 * Currently, the plate only support 1u thumb cluster keys, but the plate may be easily adapted to support 2u keys.
@@ -22,4 +24,6 @@
 * Use as small and narrow m3 inserts as possible, some of the wider ones may not fit.
 * Use countersunk screws.
 * Feet should be printed in TPU or any other soft filament (for better grip).
-* This case supports PCB thickness of about 1.55-1.65 mm.
+* The case supports PCB thickness of about 1.55-1.65 mm.
+
+![plot](./rev1/images/single.jpg)
