@@ -1,19 +1,21 @@
 # Ergodox Case (1u - 80 key)
 
-![plot](./rev1/images/both.jpg)
+![both](./rev1/images/both.jpg)
 
 ### Parts to assemble both sides:
 
-* 2 - bottom parts (1 with usb, and 1 without usb)
-* 2 - top parts (1 with usb, and 1 without usb)
-* 2 - plates
-* 6 - legs
-* 6 - feet
-* 18 - m3 screw inserts
-* 6 - m3 screw nuts
-* 12 - 10mm m3 screws (for bottom-top)
-* 6 - 14mm m3 screws (for legs to main body)
-* 6 - 4mm m3 screws (for feet to legs)
+| Count | Part             | Notes                        |
+|:-----:|:----------------:|:----------------------------:|
+| 2     | bottom           | 1 with usb, 1 without usb    |
+| 2     | top              | 1 with usb, 1 without usb    |
+| 2     | plates           |                              |
+| 6     | legs             |                              |
+| 6     | feet             |                              |
+| 18    | M3 inserts       |                              |
+| 6     | M3 nuts          |                              |
+| 12    | 10mm M3 screws   | for attaching bottom to top  |
+| 6     | 14mm M3 screws   | for attaching legs to bottom |
+| 6     | 4mm M3 screws    | for attaching feet to legs   |
 
 ### Notes
 
@@ -25,7 +27,7 @@
 * Use countersunk screws.
 * Feet should be printed in TPU or any other soft filament (for better grip).
 * The case supports PCB thickness of about 1.55-1.65 mm.
-* This case is not made to print fast, it's made to be robust and strong.
-* The screw lengths may not be completely accurate as they were manually cut during prototyping. (I will test the lengths later)
+* This case is not made to print fast or use little filament, it's made to be robust and strong.
+* The screw lengths may not be completely accurate as they were manually cut during prototyping. (I will test the lengths at a later time)
 
-![plot](./rev1/images/single.jpg)
+![single](./rev1/images/single.jpg)
