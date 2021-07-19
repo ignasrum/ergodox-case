@@ -14,7 +14,7 @@
 | 18    | M3 inserts       |                              |
 | 6     | M3 nuts          |                              |
 | 12    | 10mm M3 screws   | for attaching bottom to top  |
-| 6     | 14mm M3 screws   | for attaching legs to bottom |
+| 6     | 16mm M3 screws   | for attaching legs to bottom |
 | 6     | 4mm M3 screws    | for attaching feet to legs   |
 
 ### Notes
