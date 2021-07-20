@@ -23,7 +23,7 @@
 * Currently, the plate only support 1u thumb cluster keys, but the plate may be easily adapted to support 2u keys.
 * Only one stl is provided for each part. Mirror the parts depending on your setup.
 * Plates with and without supports are provided. The version without supports is mainly meant for cutting out from acrylic etc.
-* Use as small and narrow m3 inserts as possible, some of the wider ones may not fit.
+* Use as small and narrow M3 inserts as possible, some of the wider ones may not fit.
 * Use countersunk screws.
 * Feet should be printed in TPU or any other soft filament (for better grip).
 * The case supports PCB thickness of about 1.55-1.65 mm.
