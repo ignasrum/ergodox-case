@@ -27,7 +27,6 @@
 * Use countersunk screws.
 * Feet should be printed in TPU or any other soft filament (for better grip).
 * The case supports PCB thickness of about 1.55-1.65 mm.
-* This case is not made to print fast or use little filament, it's made to be robust and strong.
-* The screw lengths may not be completely accurate as they were manually cut during prototyping. (I will test the lengths at a later time)
+* This case is not made to print fast or save filament, it's thick, robust, and strong.
 
 ![single](./rev1/images/single.jpg)
