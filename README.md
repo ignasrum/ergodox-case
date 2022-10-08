@@ -1,6 +1,6 @@
 # Ergodox Case (1u - 80 key)
 
-![both](./rev1/images/both.jpg)
+![both](./images/both.jpg)
 
 ### Parts to assemble both sides:
 
@@ -29,4 +29,4 @@
 * The case supports PCB thickness of about 1.55-1.65 mm.
 * This case is not made to print fast or save filament, it's thick, robust, and strong.
 
-![single](./rev1/images/single.jpg)
+![single](./images/single.jpg)
